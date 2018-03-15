@@ -71,7 +71,7 @@ void ofApp::draw(){
     ofSetColor(0,0,0,11);
     ofDrawRectangle(0,0,ofGetWidth(),ofGetHeight());
     
-    // Animation
+    // Sound Reactivity
     float p = 0;
     float high = 0;
     

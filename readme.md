@@ -15,7 +15,7 @@ Mic sensor + power for LEDs > All running from Arduino / ESP32 /  Batteries / Ot
 <img src="https://raw.githubusercontent.com/WillpowerStudios/ElektroMagnetix-of-The-Universe/master/images/02.png">
 <br>
 <br>
-YouTube Video of Hack: https://www.youtube.com/embed/1irLULuPOxw
+YouTube Video of Project: https://www.youtube.com/embed/1irLULuPOxw
 <br><br>
 //<br>
 <br>
