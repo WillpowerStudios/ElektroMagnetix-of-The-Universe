@@ -1,4 +1,7 @@
 <h1>ElektroMagnetix of The Universe</h1><br>
+
+<img src="https://raw.githubusercontent.com/WillpowerStudios/ElektroMagnetix-of-The-Universe/master/images/01.png">
+<br>
 <b>Sound / Audio Reactive LEDs + Visuals in Real Time using Arduino + openFrameworks</b><br>
 <br>
 Make sure you use the addon ofxSimpleSerial > <a href="https://github.com/LeoColomb/ofxSimpleSerial" target="_blank">https://github.com/LeoColomb/ofxSimpleSerial</a><br>
@@ -9,11 +12,7 @@ If you know how to make this system wireless please share !<br>
 Mic sensor + power for LEDs > All running from Arduino / ESP32 /  Batteries / Other <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/WillpowerStudios/ElektroMagnetix-of-The-Universe/master/images/01.png">
-<br>
 <img src="https://raw.githubusercontent.com/WillpowerStudios/ElektroMagnetix-of-The-Universe/master/images/02.png">
-<br>
-<img src="https://raw.githubusercontent.com/WillpowerStudios/ElektroMagnetix-of-The-Universe/master/images/03.png">
 <br>
 <br>
 //<br>
@@ -34,3 +33,6 @@ Tumblr: <a href="http://willpowerlifeforce.com/" target="_blank">http://willpowe
 Newsletter: <a href="http://willpowerstudios.us2.list-manage1.com/subscribe?u=a938b14fc35411d305eebfc9f&id=51b5411ac6" target="_blank">http://willpowerstudios.us2.list-manage1.com/subscribe?u=a938b14fc35411d305eebfc9f&id=51b5411ac6</a><br>
 vimeo: <a href="https://vimeo.com/willpowerstudios" target="_blank">https://vimeo.com/willpowerstudios</a><br>
 Github: <a href="https://github.com/WillpowerStudios" target="_blank">https://github.com/WillpowerStudios</a><br>
+
+<br>
+<img src="https://raw.githubusercontent.com/WillpowerStudios/ElektroMagnetix-of-The-Universe/master/images/03.png">
