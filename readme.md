@@ -1,4 +1,5 @@
-<b>Sound / Audio Reactive LEDs + Visuals in Real Time using Arduino + openFrameworks</b><br>
+<h1>Sound / Audio Reactive LEDs + Visuals in Real Time using Arduino + openFrameworks</h1><br>
+<br>
 Make sure you use the addon ofxSimpleSerial > https://github.com/LeoColomb/ofxSimpleSeria<br>l
 The Arduino file is there, as well as the src files for oF.<br>
 Project inspired by Engineerish > https://youtu.be/tcMK2Unvxtc<br>
@@ -10,8 +11,8 @@ mic sensor + power for LEDs > All running from Arduino / ESP32 / Other<br>
 
 //<br>
 <br>
-WILLPOWER STUDIOS<br>
-The Creation of Worlds<br>
+<b>WILLPOWER STUDIOS<br>
+The Creation of Worlds</b><br>
 <br>
 Site: http://WillpowerStudios.com<br>
 Patreon: https://www.patreon.com/WillpowerStudios<br>
