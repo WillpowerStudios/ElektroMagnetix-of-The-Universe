@@ -1,5 +1,5 @@
-<h1>Sound / Audio Reactive LEDs + Visuals in Real Time using Arduino + openFrameworks</h1><br>
-<br>
+<h1>ElektroMagnetix of The Universe</h1><br>
+<b>Sound / Audio Reactive LEDs + Visuals in Real Time using Arduino + openFrameworks</b>
 Make sure you use the addon ofxSimpleSerial > https://github.com/LeoColomb/ofxSimpleSeria<br>l
 The Arduino file is there, as well as the src files for oF.<br>
 Project inspired by Engineerish > https://youtu.be/tcMK2Unvxtc<br>
