@@ -9,7 +9,13 @@ If you know how to make this system wireless please share !<br>
 Mic sensor + power for LEDs > All running from Arduino / ESP32 /  Batteries / Other <br>
 <br>
 
-
+<img src="https://raw.githubusercontent.com/WillpowerStudios/ElektroMagnetix-of-The-Universe/master/images/01.png">
+<br>
+<img src="https://raw.githubusercontent.com/WillpowerStudios/ElektroMagnetix-of-The-Universe/master/images/02.png">
+<br>
+<img src="https://raw.githubusercontent.com/WillpowerStudios/ElektroMagnetix-of-The-Universe/master/images/03.png">
+<br>
+<br>
 //<br>
 <br>
 <b><a href="http://WillpowerStudios.com" target="_blank">WILLPOWER STUDIOS</a><br>
