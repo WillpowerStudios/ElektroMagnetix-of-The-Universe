@@ -35,4 +35,4 @@ vimeo: <a href="https://vimeo.com/willpowerstudios" target="_blank">https://vime
 Github: <a href="https://github.com/WillpowerStudios" target="_blank">https://github.com/WillpowerStudios</a><br>
 
 <br>
-<img src="https://raw.githubusercontent.com/WillpowerStudios/ElektroMagnetix-of-The-Universe/master/images/03.png">
+<img src="https://raw.githubusercontent.com/WillpowerStudios/ElektroMagnetix-of-The-Universe/master/images/04.png">

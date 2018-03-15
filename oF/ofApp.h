@@ -1,14 +1,14 @@
 // WILLPOWER STUDIOS / 2018 13 03
 // http://willpowerstudios.com / https://www.instagram.com/willpowerstudios/
-// Project inspired by Engineerish > https://youtu.be/tcMK2Unvxtc / https://www.instagram.com/engineerish/
-// Being an openFrameworks user, I decided to recreate the hack using oF
+// Project inspired by Engineerish > https://youtu.be/tcMK2Unvxtc
+// Being an openFrameworks user, I decided to recreate the hack using oF while playing with the visuals to do live projections with interactive LEDs mapping structures in physical spaces
 // Big thank you to Engineerish ^_^
 // Please share your updates if you've made cool changes ^_^
 // The idea is to have a projection mapping + LEDs animating in a space
 // If you know how to make this system wireless please share:
 // - mic sensor + power for LEDs > All running from Arduino / ESP32 / Other
 
-// Make sure you use the addon ofxSimpleSerial > https://github.com/LeoColomb/ofxSimpleSerial 
+// Make sure you use the addon ofxSimpleSerial > https://github.com/LeoColomb/ofxSimpleSerial
 
 #pragma once
 #include "ofMain.h"
