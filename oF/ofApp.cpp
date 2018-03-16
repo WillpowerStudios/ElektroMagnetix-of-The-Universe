@@ -65,8 +65,7 @@ void ofApp::update(){
 
 //--------------------------------------------------------------
 void ofApp::draw(){
-    // VISUAL
-    
+
     // Background
     ofSetColor(0,0,0,11);
     ofDrawRectangle(0,0,ofGetWidth(),ofGetHeight());
@@ -81,9 +80,9 @@ void ofApp::draw(){
     for(int i = 0; i < bufferSize - 1; i+=1) {
         
         // p is incrementing left channel input based on bufferSize
-        p += left[i];
-        if (left[i] > high) {
-            high = left[i];
+        p += left[i/2];
+        if (left[i/2] > high) {
+            high = left[i/2];
         }
         
         // color
@@ -91,8 +90,8 @@ void ofApp::draw(){
         
         
         // Vertical Sound Visualization > Adaptive Screen Size
-        ofDrawLine((ofGetWidth()/2-10) - (400*p), i, (ofGetWidth()/2-10) - (400*p), i+1 );
-        ofDrawLine((ofGetWidth()/2+10) + (400*p),i, (ofGetWidth()/2+10) + (400*p), i+1 );
+        ofDrawLine((ofGetWidth()/2-10) - (300*(p/2)), i, (ofGetWidth()/2-10) - (300*(p/2)), i+1 );
+        ofDrawLine((ofGetWidth()/2+10) + (300*(p/2)),i, (ofGetWidth()/2+10) + (300*(p/2)), i+1 );
         
         // Vertical Sound Visualization
 //        ofDrawLine(710 - (400*p), i, 710 - (400*p), i+1 );
